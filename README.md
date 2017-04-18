@@ -1,6 +1,6 @@
 # sixDegreeofKevinBacon
 
-##Overview This repository holds an implementation of the Six Degrees of Kevin Bacon game. The goal is to find the degree of separation between Hollywood actors that act in the same movies. The goal of this assignment was to implement an efficient graph-based data structure and to use it to explore large graphs of data.
+##Overview This repository holds an implementation of the Six Degrees of Kevin Bacon game. The goal is to find the degree of separation between Hollywood actors that act in the same movies.
 
 The Six Degrees of Kevin Bacon game is based off the parlor game, the "six degrees of separation" concept, which claims that any two people on Earth are six or fewer acquaintance-links apart. The same idea can then be morphed into this game wherein movie buffs challenge each other to find the shortest path between any arbritrary actor and the prolific Hollywood actor, Kevin Bacon. It is assumed that any actor involved in the Hollywood film industry can be linked through his or her appearance in their film roles to Kevin Bacon within six steps. The game can be described as a trivia game based on the concept of the small world phenomenon.
 
